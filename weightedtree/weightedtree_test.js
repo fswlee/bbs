@@ -144,7 +144,7 @@ function initialize() {
         .key(function (d) { return d.id })                              // Unique key
         .value(function (d) {
             return Number(d["agg_" + valueField]) })                    // The property of the datum that will be used for the branch and node size
-        .fixedSpan(300)                                                  // fixedSpan > 0 will use this pixel value for horizontal spread versus auto size based on viz width
+        .fixedSpan(175)                                                  // fixedSpan > 0 will use this pixel value for horizontal spread versus auto size based on viz width
         .branchPadding(.07)
         .label(function (d) {                                           // returns label for each node.
             return trimLabel(d.key || (d['Level' + d.depth]))})
