@@ -1,0 +1,299 @@
+﻿Category,Level1,Level2,Level3,Level4,Federal,,GovXFer,State,Local,Total
+a,Arts,,,,0.5,b,,,,0.5
+a,Arts,Aesthetics,,,0.5,b,,,,0.5
+a,Arts,Architecture and Architectural History,,,0.5,b,,,,0.5
+a,Arts,Art and Art History,,,0.5,b,,,,0.5
+a,Arts,Art Conservation,,,0.5,b,,,,0.5
+a,Arts,Art Education,,,0.5,b,,,,0.5
+a,Arts,Art Education,Architecture and Architectural History,,0.5,b,,,,0.5
+a,Arts,Art Education,Art and Psychology,,0.5,b,,,,0.5
+a,Arts,Art Education,Art History,,0.5,b,,,,0.5
+a,Arts,Art Education,Photography,,0.5,b,,,,0.5
+a,Arts,Art Education,Regional Art,,0.5,b,,,,0.5
+a,Arts,Cinematography,,,0.5,b,,,,0.5
+a,Arts,Design,,,0.5,b,,,,0.5
+a,Arts,General Arts,,,0.5,b,,,,0.5
+a,Arts,Music,,,0.5,b,,,,0.5
+a,Arts,Music,American Music,,0.5,b,,,,0.5
+a,Arts,Music,Music and Psychology,,0.5,b,,,,0.5
+a,Arts,Music,Music History,,0.5,b,,,,0.5
+a,Arts,Music,Music Literature,,0.5,b,,,,0.5
+a,Arts,Music,Music Theory,,0.5,b,,,,0.5
+a,Arts,Performing Arts,,,0.5,b,,,,0.5
+a,Arts,Performing Arts,Comedy and Drama,,0.5,b,,,,0.5
+a,Arts,Performing Arts,Mass Media Arts,,0.5,b,,,,0.5
+a,Arts,Performing Arts,Performance Practices,,0.5,b,,,,0.5
+a,Arts,Performing Arts,Theater,,0.5,b,,,,0.5
+a,Humanities,,,,0.5,b,,,,0.5
+a,Humanities,Classics,,,0.5,b,,,,0.5
+a,Humanities,Classics,Classical History,,0.5,b,,,,0.5
+a,Humanities,Classics,Classical Literature,,0.5,b,,,,0.5
+a,Humanities,Linguistics,,,0.5,b,,,,0.5
+a,Humanities,Linguistics,Comparative Linguistics,,0.5,b,,,,0.5
+a,Humanities,Linguistics,Computational Linguistics,,0.5,b,,,,0.5
+a,Humanities,Linguistics,Language Acquisition and Development,,0.5,b,,,,0.5
+a,Humanities,Linguistics,Phonology,,0.5,b,,,,0.5
+a,Humanities,Linguistics,Semantics,,0.5,b,,,,0.5
+a,Humanities,Literature,,,0.5,b,,,,0.5
+a,Humanities,Literature,Asian Literature,,0.5,b,,,,0.5
+a,Humanities,Literature,British Literature,,0.5,b,,,,0.5
+a,Humanities,Literature,Comparative Literature,,0.5,b,,,,0.5
+a,Humanities,Literature,Continental European Literature,,0.5,b,,,,0.5
+a,Humanities,Literature,Folklore,,0.5,b,,,,0.5
+a,Humanities,Literature,Indigenous Literatures,,0.5,b,,,,0.5
+a,Humanities,Literature,Latin American Literature,,0.5,b,,,,0.5
+a,Humanities,Literature,North American Literature,,0.5,b,,,,0.5
+a,Humanities,Literature,World Literature,,0.5,b,,,,0.5
+a,Humanities,Philosophy,,,0.5,b,,,,0.5
+a,Humanities,Philosophy,Aesthetics,,0.5,b,,,,0.5
+a,Humanities,Philosophy,Ancient Philosophy,,0.5,b,,,,0.5
+a,Humanities,Philosophy,Continental Philosophy,,0.5,b,,,,0.5
+a,Humanities,Philosophy,Epistemology,,0.5,b,,,,0.5
+a,Humanities,Philosophy,Ethics,,0.5,b,,,,0.5
+a,Humanities,Philosophy,Logic,,0.5,b,,,,0.5
+a,Humanities,Philosophy,Metaphysics,,0.5,b,,,,0.5
+a,Humanities,Philosophy,Modern Philosophy,,0.5,b,,,,0.5
+a,Humanities,Philosophy,Philosophy of Mind,,0.5,b,,,,0.5
+a,Humanities,Philosophy,Philosophy of Religion,,0.5,b,,,,0.5
+a,Humanities,Philosophy,Political Philosophy,,0.5,b,,,,0.5
+a,Humanities,Religion,,,0.5,b,,,,0.5
+a,Humanities,Religion,Biblical Studies,,0.5,b,,,,0.5
+a,Humanities,Religion,Buddhism and Eastern Religions,,0.5,b,,,,0.5
+a,Humanities,Religion,Christian Studies,,0.5,b,,,,0.5
+a,Humanities,Religion,Church History,,0.5,b,,,,0.5
+a,Humanities,Religion,History of Religions,,0.5,b,,,,0.5
+a,Humanities,Religion,Islam,,0.5,b,,,,0.5
+a,Humanities,Religion,Judaism,,0.5,b,,,,0.5
+a,Humanities,Religion,Philosophy of Religion,,0.5,b,,,,0.5
+a,Humanities,Religion,Theology,,0.5,b,,,,0.5
+a,Social Sciences,,,,0.5,b,,,,0.5
+a,Social Sciences,Anthropology,,,0.5,b,,,,0.5
+a,Social Sciences,Anthropology,Archaeological Anthropology,,0.5,b,,,,0.5
+a,Social Sciences,Anthropology,Cultural Anthropology,,0.5,b,,,,0.5
+a,Social Sciences,Anthropology,Linguistic Anthropology,,0.5,b,,,,0.5
+a,Social Sciences,Archaeology,,,0.5,b,,,,0.5
+a,Social Sciences,Archaeology,Archaeological Science,,0.5,b,,,,0.5
+a,Social Sciences,Archaeology,Archaeological Theory and Methods,,0.5,b,,,,0.5
+a,Social Sciences,Archaeology,"Archaeology of Asia, Sub-Saharan Africa and the Pacific",,0.5,b,,,,0.5
+a,Social Sciences,Archaeology,Archaeology of Europe and Western Asia,,0.5,b,,,,0.5
+a,Social Sciences,Archaeology,Archaeology of the Americas,,0.5,b,,,,0.5
+a,Social Sciences,Archaeology,Classical Archaeology,,0.5,b,,,,0.5
+a,Social Sciences,Archaeology,Egyptology,,0.5,b,,,,0.5
+a,Social Sciences,Archaeology,Historical Archaeology,,0.5,b,,,,0.5
+a,Social Sciences,Archaeology,Urban Archaeology,,0.5,b,,,,0.5
+a,Social Sciences,Communications,,,0.5,b,,,,0.5
+a,Social Sciences,Cultural Geography,,,0.5,b,,,,0.5
+a,Social Sciences,Cultural Geography,Demography and Population Studies,,0.5,b,,,,0.5
+a,Social Sciences,Cultural Geography,Development Studies,,0.5,b,,,,0.5
+a,Social Sciences,Education,,,0.5,b,,,,0.5
+a,Social Sciences,Education,Adult and Continuing Education,,0.5,b,,,,0.5
+a,Social Sciences,Education,Comparative Education,,0.5,b,,,,0.5
+a,Social Sciences,Education,Early Childhood Education,,0.5,b,,,,0.5
+a,Social Sciences,Education,Education Administration,,0.5,b,,,,0.5
+a,Social Sciences,Education,Educational Measurement,,0.5,b,,,,0.5
+a,Social Sciences,Education,Higher Education,,0.5,b,,,,0.5
+a,Social Sciences,Education,Pedagogy,,0.5,b,,,,0.5
+a,Social Sciences,Education,Primary Education,,0.5,b,,,,0.5
+a,Social Sciences,Education,Secondary Education,,0.5,b,,,,0.5
+a,Social Sciences,Education,Special Education,,0.5,b,,,,0.5
+a,Social Sciences,Education,TESOL,,0.5,b,,,,0.5
+a,Social Sciences,General Social Sciences,,,0.5,b,,,,0.5
+a,Social Sciences,Library and Information Science,,,0.5,b,,,,0.5
+a,Social Sciences,Library and Information Science,Archival Science,,0.5,b,,,,0.5
+a,Social Sciences,Library and Information Science,Bibliography,,0.5,b,,,,0.5
+a,Social Sciences,Library and Information Science,Information Systems,,0.5,b,,,,0.5
+a,Social Sciences,Library and Information Science,Museum Studies,,0.5,b,,,,0.5
+a,Social Sciences,Peace & Conflict Studies,,,0.5,b,,,,0.5
+a,Social Sciences,Political Science,,,0.5,b,,,,0.5
+a,Social Sciences,Political Science,"American Government, Politics, and Policy",,0.5,b,,,,0.5
+a,Social Sciences,Political Science,Comparative Politics,,0.5,b,,,,0.5
+,Social Sciences,Political Science,"East Asian Government, Politics, and Policy",,0.5,b,,,,0.5
+,Social Sciences,Political Science,"European Government, Politics, and Policy",,0.5,b,,,,0.5
+,Social Sciences,Political Science,International Relations,,0.5,b,,,,0.5
+,Social Sciences,Political Science,"Latin American Government, Politics, and Policy",,0.5,b,,,,0.5
+,Social Sciences,Political Science,"Middle East Government, Politics, and Policy",,0.5,b,,,,0.5
+,Social Sciences,Political Science,Political Economy,,0.5,b,,,,0.5
+,Social Sciences,Political Science,Political Theory,,0.5,b,,,,0.5
+,Social Sciences,Political Science,Public Policy and Administration,,0.5,b,,,,0.5
+,Social Sciences,Political Science,"Russian and East European Government, Politics, and Policy",,0.5,b,,,,0.5
+,Social Sciences,Political Science,"South Asian Government, Politics, and Policy",,0.5,b,,,,0.5
+,Social Sciences,Political Science,"Southeast Asian Government, Politics, and Policy",,0.5,b,,,,0.5
+,Social Sciences,Psychology,,,0.5,b,,,,0.5
+,Social Sciences,Psychology,Abnormal Psychology,,0.5,b,,,,0.5
+,Social Sciences,Psychology,Art and Psychology,,0.5,b,,,,0.5
+,Social Sciences,Psychology,Cognitive and Developmental Psychology,,0.5,b,,,,0.5
+,Social Sciences,Psychology,Counseling and Social Work,,0.5,b,,,,0.5
+,Social Sciences,Psychology,Experimental Psychology,,0.5,b,,,,0.5
+,Social Sciences,Psychology,Personality Psychology,,0.5,b,,,,0.5
+,Social Sciences,Psychology,Research Methods in Psychology,,0.5,b,,,,0.5
+,Social Sciences,Psychology,Social Psychology,,0.5,b,,,,0.5
+,Social Sciences,Social Science History,,,0.5,b,,,,0.5
+,Social Sciences,Sociology,,,0.5,b,,,,0.5
+,Social Sciences,Sociology,Criminology,,0.5,b,,,,0.5
+,Social Sciences,Sociology,Educational Sociology,,0.5,b,,,,0.5
+,Social Sciences,Sociology,Family Life,,0.5,b,,,,0.5
+,Social Sciences,Sociology,Organizational Behavior,,0.5,b,,,,0.5
+,Social Sciences,Sociology,Social Development and Evolution,,0.5,b,,,,0.5
+,Social Sciences,Sociology,Social Theory,,0.5,b,,,,0.5
+,Social Sciences,Sociology,Sociology of Gender,,0.5,b,,,,0.5
+,Social Sciences,Sociology,Sociology of Race and Ethnicity,,0.5,b,,,,0.5
+,Social Sciences,Sociology,Sociology of Religion,,0.5,b,,,,0.5
+,Social Sciences,Sociology,Transportation Studies,,0.5,b,,,,0.5
+,Social Sciences,Sociology,Urban Studies,,0.5,b,,,,0.5
+,Social Sciences,Sociology,Women’s Studies,,0.5,b,,,,0.5
+,Business and Economics,,,,0.5,b,,,,0.5
+,Business and Economics,Business,,,0.5,b,,,,0.5
+,Business and Economics,Business,Business Ethics and Psychology,,0.5,b,,,,0.5
+,Business and Economics,Business,Business History,,0.5,b,,,,0.5
+,Business and Economics,Business,Business Management,,0.5,b,,,,0.5
+,Business and Economics,Business,Consumer Behavior,,0.5,b,,,,0.5
+,Business and Economics,Business,Financial Management,,0.5,b,,,,0.5
+,Business and Economics,Business,Investment,,0.5,b,,,,0.5
+,Business and Economics,Business,Marketing and Advertising,,0.5,b,,,,0.5
+,Business and Economics,Business,Operations Research,,0.5,b,,,,0.5
+,Business and Economics,Business,Organizational Behavior,,0.5,b,,,,0.5
+,Business and Economics,Business,Risk and Insurance,,0.5,b,,,,0.5
+,Business and Economics,Economics,,,0.5,b,,,,0.5
+,Business and Economics,Economics,Accountancy and Actuarial Science,,0.5,b,,,,0.5
+,Business and Economics,Economics,Banking,,0.5,b,,,,0.5
+,Business and Economics,Economics,Econometrics and Mathematical Methods,,0.5,b,,,,0.5
+,Business and Economics,Economics,Economic Development and Growth,,0.5,b,,,,0.5
+,Business and Economics,Economics,Economic Theory,,0.5,b,,,,0.5
+,Business and Economics,Economics,"Economic Thought, Philosophy, and Methodology",,0.5,b,,,,0.5
+,Business and Economics,Economics,Health Care Economics,,0.5,b,,,,0.5
+,Business and Economics,Economics,Industrial Economics,,0.5,b,,,,0.5
+,Business and Economics,Economics,International Economics,,0.5,b,,,,0.5
+,Business and Economics,Economics,Labor Economics,,0.5,b,,,,0.5
+,Business and Economics,Economics,Macroeconomics,,0.5,b,,,,0.5
+,Business and Economics,Economics,Microeconomics,,0.5,b,,,,0.5
+,Business and Economics,Economics,Natural Resource and Environmental Economics,,0.5,b,,,,0.5
+,Law,,,,0.5,b,,,,0.5
+,Law,General Law,,,0.5,b,,,,0.5
+,Law,General Law,Administrative and Constitutional Law,,0.5,b,,,,0.5
+,Law,General Law,Civil Law,,0.5,b,,,,0.5
+,Law,General Law,Comparative Law,,0.5,b,,,,0.5
+,Law,General Law,Criminal Law,,0.5,b,,,,0.5
+,Law,General Law,Disability Law,,0.5,b,,,,0.5
+,Law,General Law,Employment Law,,0.5,b,,,,0.5
+,Law,General Law,History of Law,,0.5,b,,,,0.5
+,Law,General Law,Human Rights,,0.5,b,,,,0.5
+,Law,General Law,International Law,,0.5,b,,,,0.5
+,Law,General Law,Legal Theory,,0.5,b,,,,0.5
+,Law,General Law,Property Law,,0.5,b,,,,0.5
+,Law,General Law,Religious Law,,0.5,b,,,,0.5
+,History,,,,0.5,b,,,,0.5
+,History,African History,,,0.5,b,,,,0.5
+,History,American History,,,0.5,b,,,,0.5
+,History,American History,Colonial Era American History,,0.5,b,,,,0.5
+,History,American History,Local and Regional American History,,0.5,b,,,,0.5
+,History,American History,Nineteenth Century and Civil War History,,0.5,b,,,,0.5
+,History,American History,Twentieth Century American History,,0.5,b,,,,0.5
+,History,Asian History,,,0.5,b,,,,0.5
+,History,Asian History,History of Central Asia,,0.5,b,,,,0.5
+,History,Asian History,History of China,,0.5,b,,,,0.5
+,History,Asian History,History of Japan,,0.5,b,,,,0.5
+,History,Asian History,History of Korea,,0.5,b,,,,0.5
+,History,Asian History,History of South Asia,,0.5,b,,,,0.5
+,History,Asian History,History of Southeast Asia,,0.5,b,,,,0.5
+,History,Economic History,,,0.5,b,,,,0.5
+,History,Environmental History,,,0.5,b,,,,0.5
+,History,European History,,,0.5,b,,,,0.5
+,History,European History,History of France,,0.5,b,,,,0.5
+,History,European History,History of Germany,,0.5,b,,,,0.5
+,History,European History,History of the United Kingdom,,0.5,b,,,,0.5
+,History,General History,,,0.5,b,,,,0.5
+,History,Historical Periods,,,0.5,b,,,,0.5
+,History,Historiography,,,0.5,b,,,,0.5
+,History,History of Law,,,0.5,b,,,,0.5
+,History,"History of Science, Technology, and Medicine",,,0.5,b,,,,0.5
+,History,Intellectual History,,,0.5,b,,,,0.5
+,History,Latin American and Caribbean History,,,0.5,b,,,,0.5
+,History,Maritime History,,,0.5,b,,,,0.5
+,History,Military History,,,0.5,b,,,,0.5
+,History,Oral History,,,0.5,b,,,,0.5
+,History,Russian and East European History,,,0.5,b,,,,0.5
+,History,Social Science History,,,0.5,b,,,,0.5
+,History,Western Asian History,,,0.5,b,,,,0.5
+,History,Women's History,,,0.5,b,,,,0.5
+,History,World History,,,0.5,b,,,,0.5
+,Area Studies,,,,0.5,b,,,,0.5
+,Area Studies,African Studies,,,0.5,b,,,,0.5
+,Area Studies,African-American Studies,,,0.5,b,,,,0.5
+,Area Studies,American Indian Studies,,,0.5,b,,,,0.5
+,Area Studies,American Studies,,,0.5,b,,,,0.5
+,Area Studies,Asian Studies,,,0.5,b,,,,0.5
+,Area Studies,British Studies,,,0.5,b,,,,0.5
+,Area Studies,European Studies,,,0.5,b,,,,0.5
+,Area Studies,General Area Studies,,,0.5,b,,,,0.5
+,Area Studies,Irish Studies,,,0.5,b,,,,0.5
+,Area Studies,Jewish Studies,,,0.5,b,,,,0.5
+,Area Studies,Latin American Studies,,,0.5,b,,,,0.5
+,Area Studies,Mediterranean Studies,,,0.5,b,,,,0.5
+,Area Studies,Slavic Studies,,,0.5,b,,,,0.5
+,Area Studies,"U.S. State Government, Politics, and Policy",,,0.5,b,,,,0.5
+,Area Studies,Western Asian Studies,,,0.5,b,,,,0.5
+,Science and Mathematics,,,,0.5,b,,,,0.5
+,Science and Mathematics,Agriculture,,,0.5,b,,,,0.5
+,Science and Mathematics,Astronomy,,,0.5,b,,,,0.5
+,Science and Mathematics,Biological Sciences,,,0.5,b,,,,0.5
+,Science and Mathematics,Biological Sciences,Anatomy and Physiology,,0.5,b,,,,0.5
+,Science and Mathematics,Biological Sciences,Aquatic Sciences,,0.5,b,,,,0.5
+,Science and Mathematics,Biological Sciences,Botany and Plant Sciences,,0.5,b,,,,0.5
+,Science and Mathematics,Biological Sciences,Cell Biology,,0.5,b,,,,0.5
+,Science and Mathematics,Biological Sciences,Ecology,,0.5,b,,,,0.5
+,Science and Mathematics,Biological Sciences,Evolutionary Biology,,0.5,b,,,,0.5
+,Science and Mathematics,Biological Sciences,Genetics and Genomics,,0.5,b,,,,0.5
+,Science and Mathematics,Biological Sciences,Maritime Biology,,0.5,b,,,,0.5
+,Science and Mathematics,Biological Sciences,Zoology,,0.5,b,,,,0.5
+,Science and Mathematics,Chemistry,,,0.5,b,,,,0.5
+,Science and Mathematics,Earth Science,,,0.5,b,,,,0.5
+,Science and Mathematics,Earth Science,Oceanography,,0.5,b,,,,0.5
+,Science and Mathematics,Engineering,,,0.5,b,,,,0.5
+,Science and Mathematics,Environmental Science,,,0.5,b,,,,0.5
+,Science and Mathematics,Evolutionary Sciences,,,0.5,b,,,,0.5
+,Science and Mathematics,Evolutionary Sciences,Evolutionary Biology,,0.5,b,,,,0.5
+,Science and Mathematics,Evolutionary Sciences,Ethnology,,0.5,b,,,,0.5
+,Science and Mathematics,Evolutionary Sciences,Paleontology,,0.5,b,,,,0.5
+,Science and Mathematics,Garden & Landscape,,,0.5,b,,,,0.5
+,Science and Mathematics,General Science,,,0.5,b,,,,0.5
+,Science and Mathematics,Geology,,,0.5,b,,,,0.5
+,Science and Mathematics,"History of Science, Technology, and Medicine",,,0.5,b,,,,0.5
+,Science and Mathematics,Horticulture,,,0.5,b,,,,0.5
+,Science and Mathematics,Mathematics,,,0.5,b,,,,0.5
+,Science and Mathematics,Mathematics,Applied Mathematics,,0.5,b,,,,0.5
+,Science and Mathematics,Mathematics,Mathematics Education,,0.5,b,,,,0.5
+,Science and Mathematics,Mathematics,Statistics,,0.5,b,,,,0.5
+,Science and Mathematics,Mathematics,Systems Science,,0.5,b,,,,0.5
+,Science and Mathematics,Military Studies,,,0.5,b,,,,0.5
+,Science and Mathematics,Physics,,,0.5,b,,,,0.5
+,Science and Mathematics,Physics,Astrophysics,,0.5,b,,,,0.5
+,Science and Mathematics,Physics,Condensed Matter Physics,,0.5,b,,,,0.5
+,Science and Mathematics,Physics,Fluid Dynamics,,0.5,b,,,,0.5
+,Science and Mathematics,Physics,Particle Physics,,0.5,b,,,,0.5
+,Science and Mathematics,Physics,Plasma Physics,,0.5,b,,,,0.5
+,Science and Mathematics,Physics,Quantum Mechanics,,0.5,b,,,,0.5
+,Science and Mathematics,Science & Technology Studies,,,0.5,b,,,,0.5
+,Science and Mathematics,Technology,,,0.5,b,,,,0.5
+,Medicine and Allied Health,,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Allied Health,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Audiology,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Cardiology,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Counseling and Social Work,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Dentistry,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Diseases,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Endocrinology,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Environmental Health,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Health Administration,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Health Policy,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Health Sciences,,,0.5,b,,,,0.5
+,Medicine and Allied Health,"History of Science, Technology, and Medicine",,,0.5,b,,,,0.5
+,Medicine and Allied Health,Human Anatomy and Physiology,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Immunology,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Medical Ethics,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Mental Health,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Nursing,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Occupational Medicine,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Pathology,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Public Health,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Rehabilitative Therapy,,,0.5,b,,,,0.5
+,Medicine and Allied Health,Substance Abuse,,,0.5,b,,,,0.5
