@@ -986,10 +986,10 @@ a,19th Century,Books,General,Yankee Blitzkrieg,1,b,,,,0.5
 a,19th Century,Books,General,Yellowstone and the Smithsonian,1,b,,,,0.5
 a,19th Century,Books,General,Young America,1,b,,,,0.5
 a,19th Century,Books,General,"Your Friend Forever, A. Lincoln",1,b,,,,0.5
-a,19th Century,Journals,,Early American Studies,1,b,,,,0.5
-a,19th Century,Journals,,Journal of the Abraham Lincoln Association,1,b,,,,0.5
-a,19th Century,Journals,,Journal of the Civil War Era,1,b,,,,0.5
-a,19th Century,Journals,,Journal of the Early Republic,1,b,,,,0.5
+a,19th Century,Journals,Early American Studies,,1,b,,,,0.5
+a,19th Century,Journals,Journal of the Abraham Lincoln Association,,1,b,,,,0.5
+a,19th Century,Journals,Journal of the Civil War Era,,1,b,,,,0.5
+a,19th Century,Journals,Journal of the Early Republic,,1,b,,,,0.5
 a,20th Century,Books,General,41,1,b,,,,0.5
 a,20th Century,Books,Military,42,1,b,,,,0.5
 a,20th Century,Books,General,1929,1,b,,,,0.5
@@ -2202,8 +2202,8 @@ a,20th Century,Books,Film,Yamashita's Ghost,1,b,,,,0.5
 a,20th Century,Books,Women's Studies,Yellowcake Towns,1,b,,,,0.5
 a,20th Century,Books,General,Zig-Zag-and-Swirl,1,b,,,,0.5
 a,20th Century,Books,General,Zoot Suit,1,b,,,,0.5
-a,20th Century,Journals,,Journal of the Gilded Age and Progressive Era,1,b,,,,0.5
-a,21st Century,Books,,9/11 and the War on Terror,1,b,,,,0.5
+a,20th Century,Journals,Journal of the Gilded Age and Progressive Era,,1,b,,,,0.5
+a,21st Century,Books,William and Mary Quarterly,9/11 and the War on Terror,1,b,,,,0.5
 a,21st Century,Books,,A Single Roll of the Dice,1,b,,,,0.5
 a,21st Century,Books,,A Vulcan's Tale,1,b,,,,0.5
 a,21st Century,Books,,Alabaster Cities,1,b,,,,0.5
@@ -2288,7 +2288,7 @@ a,21st Century,Books,,Where There's Smoke,1,b,,,,0.5
 a,21st Century,Books,,Who Cares?,1,b,,,,0.5
 a,21st Century,Books,,Why America Is Not a New Rome,1,b,,,,0.5
 a,21st Century,Books,,Women of the Storm,1,b,,,,0.5
-a,Colonial Era,Journals,,William and Mary Quarterly,1,b,,,,0.5
+a,Colonial Era,Journals,William and Mary Quarterly,,1,b,,,,0.5
 a,Colonial Era,Books,General,"""Good News from New England"" by Edward Winslow",1,b,,,,0.5
 a,Colonial Era,Books,General,A Biographical Dictionary of Early American Jews,1,b,,,,0.5
 a,Colonial Era,Books,General,A Cheerful and Comfortable Faith,1,b,,,,0.5
@@ -2552,26 +2552,26 @@ a,Colonial Era,Books,General,William Penn,1,b,,,,0.5
 a,Colonial Era,Books,General,"Withces, Wife Beaters, and Whores",1,b,,,,0.5
 a,Colonial Era,Books,Political,Working the Diaspora,1,b,,,,0.5
 a,Colonial Era,Books,General,Zamumo's Gifts,1,b,,,,0.5
-a,General,Journals,,American Historical Review,1,b,,,,0.5
-a,General,Journals,,Atlantis,1,b,,,,0.5
-a,General,Journals,,Hungarian Journal of English and American Studies (HJEAS),1,b,,,,0.5
-a,General,Journals,,Irish Journal of American Studies,1,b,,,,0.5
-a,General,Journals,,Italian Americana,1,b,,,,0.5
-a,General,Journals,,Journal of American Ethnic History,1,b,,,,0.5
-a,General,Journals,,Journal of Appalachian Studies,1,b,,,,0.5
-a,General,Journals,,Journal of Moravian History,1,b,,,,0.5
-a,General,Journals,,American Studies,1,b,,,,0.5
-a,General,Journals,,Mark Twain Journal,1,b,,,,0.5
-a,General,Journals,,Material Culture,1,b,,,,0.5
-a,General,Journals,,Reviews in American History,1,b,,,,0.5
-a,General,Journals,,Revue française d'études américaines,1,b,,,,0.5
-a,General,Journals,,OAH Magazine of History,1,b,,,,0.5
-a,General,Journals,,Amerikastudien / American Studies,1,b,,,,0.5
-a,General,Journals,,South Pacific Journal of American Studies,1,b,,,,0.5
-a,General,Journals,,Journal of American History,1,b,,,,0.5
-a,General,Journals,,Journal of American Studies,1,b,,,,0.5
-a,General,Journals,,Revista de Historia de America,1,b,,,,0.5
-a,General,Journals,,Transactions of the American Philosophical Society,1,b,,,,0.5
+a,General,Journals,American Historical Review,,1,b,,,,0.5
+a,General,Journals,Atlantis,,1,b,,,,0.5
+a,General,Journals,Hungarian Journal of English and American Studies (HJEAS),,1,b,,,,0.5
+a,General,Journals,Irish Journal of American Studies,,1,b,,,,0.5
+a,General,Journals,Italian Americana,,1,b,,,,0.5
+a,General,Journals,Journal of American Ethnic History,,1,b,,,,0.5
+a,General,Journals,Journal of Appalachian Studies,,1,b,,,,0.5
+a,General,Journals,Journal of Moravian History,,1,b,,,,0.5
+a,General,Journals,American Studies,,1,b,,,,0.5
+a,General,Journals,Mark Twain Journal,,1,b,,,,0.5
+a,General,Journals,Material Culture,,1,b,,,,0.5
+a,General,Journals,Reviews in American History,,1,b,,,,0.5
+a,General,Journals,Revue française d'études américaines,,1,b,,,,0.5
+a,General,Journals,OAH Magazine of History,,1,b,,,,0.5
+a,General,Journals,Amerikastudien / American Studies,,1,b,,,,0.5
+a,General,Journals,South Pacific Journal of American Studies,,1,b,,,,0.5
+a,General,Journals,Journal of American History,,1,b,,,,0.5
+a,General,Journals,Journal of American Studies,,1,b,,,,0.5
+a,General,Journals,Revista de Historia de America,,1,b,,,,0.5
+a,General,Journals,Transactions of the American Philosophical Society,,1,b,,,,0.5
 a,Local and Regional,Books,General,"""¡Mi Raza Primero!"" (My People First!)",1,b,,,,0.5
 a,Local and Regional,Books,General,"""Answer at Once""",1,b,,,,0.5
 a,Local and Regional,Books,United States,"""Brown"" in Baltimore",1,b,,,,0.5
@@ -4218,41 +4218,41 @@ a,Local and Regional,Books,General,You Must Be from the North,1,b,,,,0.5
 a,Local and Regional,Books,General,Yuchi Indian Histories Before the Removal Era,1,b,,,,0.5
 a,Local and Regional,Books,United States,Zenith City,1,b,,,,0.5
 a,Local and Regional,Books,General,Zig-Zag-and-Swirl,1,b,,,,0.5
-a,Local and Regional,Journals,,Appalachian Journal,1,b,,,,0.5
-a,Local and Regional,Journals,,Arkansas Historical Quarterly,1,b,,,,0.5
-a,Local and Regional,Journals,,Boom: A Journal of California,1,b,,,,0.5
-a,Local and Regional,Journals,,California History,1,b,,,,0.5
-a,Local and Regional,Journals,,Connecticut History Review,1,b,,,,0.5
-a,Local and Regional,Journals,,Florida Historical Quarterly,1,b,,,,0.5
-a,Local and Regional,Journals,,Georgia Historical Quarterly,1,b,,,,0.5
-a,Local and Regional,Journals,,Indiana Magazine of History,1,b,,,,0.5
-a,Local and Regional,Journals,,Journal of Arizona History,1,b,,,,0.5
-a,Local and Regional,Journals,,Journal of Southern History,1,b,,,,0.5
-a,Local and Regional,Journals,,Journal of the Illinois State Historical Society (1998-),1,b,,,,0.5
-a,Local and Regional,Journals,,Journal of the Southwest,1,b,,,,0.5
-a,Local and Regional,Journals,,Louisiana History: The Journal of the Louisiana Historical Association,1,b,,,,0.5
-a,Local and Regional,Journals,,Massachusetts Historical Review,1,b,,,,0.5
-a,Local and Regional,Journals,,Michigan Historical Review,1,b,,,,0.5
-a,Local and Regional,Journals,,Minnesota History,1,b,,,,0.5
-a,Local and Regional,Journals,,Montana: The Magazine of Western History,1,b,,,,0.5
-a,Local and Regional,Journals,,New York History,1,b,,,,0.5
-a,Local and Regional,Journals,,Oregon Historical Quarterly,1,b,,,,0.5
-a,Local and Regional,Journals,,Pacific Historical Review,1,b,,,,0.5
-a,Local and Regional,Journals,,Pacific Northwest Quarterly,1,b,,,,0.5
-a,Local and Regional,Journals,,Pennsylvania History,1,b,,,,0.5
-a,Local and Regional,Journals,,Pennsylvania History: A Journal of Mid-Atlantic Studies,1,b,,,,0.5
-a,Local and Regional,Journals,,Pennsylvania Legacies,1,b,,,,0.5
-a,Local and Regional,Journals,,Pennsylvania Magazine of History and Biography,1,b,,,,0.5
-a,Local and Regional,Journals,,Proceedings of the Indian History Congress,1,b,,,,0.5
-a,Local and Regional,Journals,,South Carolina Historical Magazine,1,b,,,,0.5
-a,Local and Regional,Journals,,Southern California Quarterly,1,b,,,,0.5
-a,Local and Regional,Journals,,Southwestern Historical Quarterly,1,b,,,,0.5
-a,Local and Regional,Journals,,Tennessee Historical Quarterly,1,b,,,,0.5
-a,Local and Regional,Journals,,Virginia Magazine of History and Biography,1,b,,,,0.5
-a,Local and Regional,Journals,,Washington History,1,b,,,,0.5
-a,Local and Regional,Journals,,West Virginia History,1,b,,,,0.5
-a,Local and Regional,Journals,,Western Historical Quarterly,1,b,,,,0.5
-a,Local and Regional,Journals,,Wisconsin Magazine of History,1,b,,,,0.5
+a,Local and Regional,Journals,Appalachian Journal,,1,b,,,,0.5
+a,Local and Regional,Journals,Arkansas Historical Quarterly,,1,b,,,,0.5
+a,Local and Regional,Journals,Boom: A Journal of California,,1,b,,,,0.5
+a,Local and Regional,Journals,California History,,1,b,,,,0.5
+a,Local and Regional,Journals,Connecticut History Review,,1,b,,,,0.5
+a,Local and Regional,Journals,Florida Historical Quarterly,,1,b,,,,0.5
+a,Local and Regional,Journals,Georgia Historical Quarterly,,1,b,,,,0.5
+a,Local and Regional,Journals,Indiana Magazine of History,,1,b,,,,0.5
+a,Local and Regional,Journals,Journal of Arizona History,,1,b,,,,0.5
+a,Local and Regional,Journals,Journal of Southern History,,1,b,,,,0.5
+a,Local and Regional,Journals,Journal of the Illinois State Historical Society (1998-),,1,b,,,,0.5
+a,Local and Regional,Journals,Journal of the Southwest,,1,b,,,,0.5
+a,Local and Regional,Journals,Louisiana History: The Journal of the Louisiana Historical Association,,1,b,,,,0.5
+a,Local and Regional,Journals,Massachusetts Historical Review,,1,b,,,,0.5
+a,Local and Regional,Journals,Michigan Historical Review,,1,b,,,,0.5
+a,Local and Regional,Journals,Minnesota History,,1,b,,,,0.5
+a,Local and Regional,Journals,Montana: The Magazine of Western History,,1,b,,,,0.5
+a,Local and Regional,Journals,New York History,,1,b,,,,0.5
+a,Local and Regional,Journals,Oregon Historical Quarterly,,1,b,,,,0.5
+a,Local and Regional,Journals,Pacific Historical Review,,1,b,,,,0.5
+a,Local and Regional,Journals,Pacific Northwest Quarterly,,1,b,,,,0.5
+a,Local and Regional,Journals,Pennsylvania History,,1,b,,,,0.5
+a,Local and Regional,Journals,Pennsylvania History: A Journal of Mid-Atlantic Studies,,1,b,,,,0.5
+a,Local and Regional,Journals,Pennsylvania Legacies,,1,b,,,,0.5
+a,Local and Regional,Journals,Pennsylvania Magazine of History and Biography,,1,b,,,,0.5
+a,Local and Regional,Journals,Proceedings of the Indian History Congress,,1,b,,,,0.5
+a,Local and Regional,Journals,South Carolina Historical Magazine,,1,b,,,,0.5
+a,Local and Regional,Journals,Southern California Quarterly,,1,b,,,,0.5
+a,Local and Regional,Journals,Southwestern Historical Quarterly,,1,b,,,,0.5
+a,Local and Regional,Journals,Tennessee Historical Quarterly,,1,b,,,,0.5
+a,Local and Regional,Journals,Virginia Magazine of History and Biography,,1,b,,,,0.5
+a,Local and Regional,Journals,Washington History,,1,b,,,,0.5
+a,Local and Regional,Journals,West Virginia History,,1,b,,,,0.5
+a,Local and Regional,Journals,Western Historical Quarterly,,1,b,,,,0.5
+a,Local and Regional,Journals,Wisconsin Magazine of History,,1,b,,,,0.5
 a,General,Books,General,Legitimacy and Power Politics,1,b,,,,0.5
 a,General,Books,General,The Democratic Experiment,1,b,,,,0.5
 a,General,Books,American Government,Governing America,1,b,,,,0.5
